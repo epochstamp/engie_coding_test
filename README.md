@@ -19,4 +19,4 @@ Dependencies listed in requirements.txt. Runs on Python 3.8+, tested on Linux. D
 - Test with `test_api_{n}.py` with `{n}` in `(1, 2, 3)` (Input : `payload{n}.json` injected in POST request, output json structured like `response.json` example).
 - [RestAPI link (localhost)](http://127.0.0.1:8888/productionplan).
 
-A Dockerfile is also available in this archive (but untested), and should perform the abovementioned steps.
+A Dockerfile is also available (but untested), and should perform the abovementioned steps.
