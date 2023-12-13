@@ -1,0 +1,1 @@
+from .powerplants import powerplants_class_map
